@@ -68,3 +68,30 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+---
+
+### Created By
+- [Pauziah](https://github.com/ziassy)
+
+### Screenshot
+
+__Dashboard__
+![main](screenshoot/homepage.JPG)
+
+
+---
+
+### Get in Touch 
+
+- Twitter: [@ziassy](https://twitter.com/ZIASSY1)
+- Instagram : [@fauziiyaa_](https://www.instagram.com/fauziiyaa_/)
+- Email : [pauziahid@gmail.com](mailto:pauziahid@gmail.com)
+- Telegram : [Ziassy](https://t.me/ziassy)
+
+### Buy me a Cup of Tea Or Donation🍺
+
+- OVO : 085887322352
+- Paypal :[ziassy](https://www.paypal.me/ziassy)
+
+---
