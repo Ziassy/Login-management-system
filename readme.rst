@@ -69,18 +69,6 @@ Acknowledgement
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
----
-
-### Created By
-- [Pauziah](https://github.com/ziassy)
-
-### Screenshot
-
-__Dashboard__
-![main](screenshoot/homepage.JPG)
-
-
----
 
 ### Get in Touch 
 
